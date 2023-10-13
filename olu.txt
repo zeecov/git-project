@@ -1,4 +1,8 @@
 He has been very active in the class
+<<<<<<< HEAD
 Maybe not everyone
 
 We will soon find out  
+=======
+Yes we are all active 
+>>>>>>> fixit
