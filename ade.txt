@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Here is another banger
 But here we go again
+=======
+Here is one other change made on my remote repo
+That is not on my local repo
+Testing a git conflict
+>>>>>>> origin/master
